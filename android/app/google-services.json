@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256849183307",
+    "project_id": "my-dash-a67f9",
+    "storage_bucket": "my-dash-a67f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256849183307:android:b94803a557072c2b8103ce",
+        "android_client_info": {
+          "package_name": "com.example.my_dash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4dvarN22kDoM7zHlfqR8HNGmByfrHkKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,623 @@
+[
+    {
+      "Date": "2023-02-01",
+      "Total Recharge TND HT (Global)": 945561,
+      "Nombre Recharge (Global)": 572811,
+      "Total Recharge TND TTC (Digital)": 41436.5966386554,
+      "Nombre Recharge (Digital)": 4965,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.382223530650629,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.8667780472092889
+    },
+    {
+      "Date": "2023-02-02",
+      "Total Recharge TND HT (Global)": 914131,
+      "Nombre Recharge (Global)": 560848,
+      "Total Recharge TND TTC (Digital)": 39079.7899159663,
+      "Nombre Recharge (Digital)": 4834,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.275075444981769,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.8619091090634183
+    },
+    {
+      "Date": "2023-02-03",
+      "Total Recharge TND HT (Global)": 927342,
+      "Nombre Recharge (Global)": 570099,
+      "Total Recharge TND TTC (Digital)": 39304.4117647058,
+      "Nombre Recharge (Digital)": 5012,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.238394439667976,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.8791455519129134
+    },
+    {
+      "Date": "2023-02-04",
+      "Total Recharge TND HT (Global)": 921544,
+      "Nombre Recharge (Global)": 572204,
+      "Total Recharge TND TTC (Digital)": 35283.2352941176,
+      "Nombre Recharge (Digital)": 4623,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 3.82870869910906,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.8079286408343878
+    },
+    {
+      "Date": "2023-02-05",
+      "Total Recharge TND HT (Global)": 789866,
+      "Nombre Recharge (Global)": 504634,
+      "Total Recharge TND TTC (Digital)": 33437.268907563,
+      "Nombre Recharge (Digital)": 4083,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.233283735160521,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.8091012496185355
+    },
+    {
+      "Date": "2023-02-06",
+      "Total Recharge TND HT (Global)": 986639,
+      "Nombre Recharge (Global)": 599964,
+      "Total Recharge TND TTC (Digital)": 43860.5462184873,
+      "Nombre Recharge (Digital)": 5633,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.445450283080976,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9388896667133362
+    },
+    {
+      "Date": "2023-02-07",
+      "Total Recharge TND HT (Global)": 936324,
+      "Nombre Recharge (Global)": 576675,
+      "Total Recharge TND TTC (Digital)": 40621.0924369747,
+      "Nombre Recharge (Digital)": 5263,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.338358563592806,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9126457710148698
+    },
+    {
+      "Date": "2023-02-08",
+      "Total Recharge TND HT (Global)": 911166,
+      "Nombre Recharge (Global)": 550850,
+      "Total Recharge TND TTC (Digital)": 40241.512605042,
+      "Nombre Recharge (Digital)": 5367,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.4164853171696485,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9743124262503403
+    },
+    {
+      "Date": "2023-02-09",
+      "Total Recharge TND HT (Global)": 941013,
+      "Nombre Recharge (Global)": 576578,
+      "Total Recharge TND TTC (Digital)": 39684.6218487394,
+      "Nombre Recharge (Digital)": 4740,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.217223550443979,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.822091720461065
+    },
+    {
+      "Date": "2023-02-10",
+      "Total Recharge TND HT (Global)": 890631,
+      "Nombre Recharge (Global)": 538824,
+      "Total Recharge TND TTC (Digital)": 42079.2016806722,
+      "Nombre Recharge (Digital)": 5558,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.724650464746029,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0315056493400443
+    },
+    {
+      "Date": "2023-02-11",
+      "Total Recharge TND HT (Global)": 919556,
+      "Nombre Recharge (Global)": 568447,
+      "Total Recharge TND TTC (Digital)": 36990.3781512605,
+      "Nombre Recharge (Digital)": 4999,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.022634635765575,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.8794135601032286
+    },
+    {
+      "Date": "2023-02-12",
+      "Total Recharge TND HT (Global)": 780350,
+      "Nombre Recharge (Global)": 500862,
+      "Total Recharge TND TTC (Digital)": 33670.1260504201,
+      "Nombre Recharge (Digital)": 4313,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.314746722678298,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.8611154369866351
+    },
+    {
+      "Date": "2023-02-13",
+      "Total Recharge TND HT (Global)": 989782,
+      "Nombre Recharge (Global)": 608997,
+      "Total Recharge TND TTC (Digital)": 43220.0840336134,
+      "Nombre Recharge (Digital)": 5709,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.366626593897788,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.937443041591338
+    },
+    {
+      "Date": "2023-02-14",
+      "Total Recharge TND HT (Global)": 951223,
+      "Nombre Recharge (Global)": 596313,
+      "Total Recharge TND TTC (Digital)": 40725.2521008403,
+      "Nombre Recharge (Digital)": 5427,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.281356958446158,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9100925185263444
+    },
+    {
+      "Date": "2023-02-15",
+      "Total Recharge TND HT (Global)": 934481,
+      "Nombre Recharge (Global)": 584772,
+      "Total Recharge TND TTC (Digital)": 43328.4033613445,
+      "Nombre Recharge (Digital)": 5414,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.636627535642191,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9258309221371749
+    },
+    {
+      "Date": "2023-02-16",
+      "Total Recharge TND HT (Global)": 919239,
+      "Nombre Recharge (Global)": 577146,
+      "Total Recharge TND TTC (Digital)": 41250.294117647,
+      "Nombre Recharge (Digital)": 5409,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.48743951438603,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9371978667442901
+    },
+    {
+      "Date": "2023-02-17",
+      "Total Recharge TND HT (Global)": 928203,
+      "Nombre Recharge (Global)": 583226,
+      "Total Recharge TND TTC (Digital)": 41995.3781512604,
+      "Nombre Recharge (Digital)": 5463,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.52437431803823,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9366866360553198
+    },
+    {
+      "Date": "2023-02-18",
+      "Total Recharge TND HT (Global)": 928797,
+      "Nombre Recharge (Global)": 583974,
+      "Total Recharge TND TTC (Digital)": 36939.537815126,
+      "Nombre Recharge (Digital)": 4708,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 3.9771379338139554,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.8062002760396867
+    },
+    {
+      "Date": "2023-02-19",
+      "Total Recharge TND HT (Global)": 792528,
+      "Nombre Recharge (Global)": 513276,
+      "Total Recharge TND TTC (Digital)": 32099.4957983193,
+      "Nombre Recharge (Digital)": 4199,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.050266463559559,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.8180783827804146
+    },
+    {
+      "Date": "2023-02-20",
+      "Total Recharge TND HT (Global)": 1018685,
+      "Nombre Recharge (Global)": 628479,
+      "Total Recharge TND TTC (Digital)": 47834.2857142857,
+      "Nombre Recharge (Digital)": 6013,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.6956896110461726,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9567543227379117
+    },
+    {
+      "Date": "2023-02-21",
+      "Total Recharge TND HT (Global)": 966973,
+      "Nombre Recharge (Global)": 599808,
+      "Total Recharge TND TTC (Digital)": 43618.5294117647,
+      "Nombre Recharge (Digital)": 5529,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.510832196117647,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9217949743918054
+    },
+    {
+      "Date": "2023-02-22",
+      "Total Recharge TND HT (Global)": 959063,
+      "Nombre Recharge (Global)": 598080,
+      "Total Recharge TND TTC (Digital)": 46056.7647058823,
+      "Nombre Recharge (Digital)": 5671,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.802266869421748,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9482009095773141
+    },
+    {
+      "Date": "2023-02-23",
+      "Total Recharge TND HT (Global)": 940344,
+      "Nombre Recharge (Global)": 585961,
+      "Total Recharge TND TTC (Digital)": 46726.7647058823,
+      "Nombre Recharge (Digital)": 5677,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.969113931272204,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9688358098917845
+    },
+    {
+      "Date": "2023-02-24",
+      "Total Recharge TND HT (Global)": 982418,
+      "Nombre Recharge (Global)": 609251,
+      "Total Recharge TND TTC (Digital)": 45356.7647058823,
+      "Nombre Recharge (Digital)": 5864,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.616849925986932,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.962493290942485
+    },
+    {
+      "Date": "2023-02-25",
+      "Total Recharge TND HT (Global)": 993120,
+      "Nombre Recharge (Global)": 609276,
+      "Total Recharge TND TTC (Digital)": 45144.2857142857,
+      "Nombre Recharge (Digital)": 5511,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.545703008124467,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.904516179859374
+    },
+    {
+      "Date": "2023-02-26",
+      "Total Recharge TND HT (Global)": 830777,
+      "Nombre Recharge (Global)": 528561,
+      "Total Recharge TND TTC (Digital)": 39259.306722689,
+      "Nombre Recharge (Digital)": 4685,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.7256130974604496,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.886368839168989
+    },
+    {
+      "Date": "2023-02-27",
+      "Total Recharge TND HT (Global)": 1054265,
+      "Nombre Recharge (Global)": 647406,
+      "Total Recharge TND TTC (Digital)": 47818.6554621848,
+      "Nombre Recharge (Digital)": 6336,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 4.5357339437603255,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9786748964328412
+    },
+    {
+      "Date": "2023-02-28",
+      "Total Recharge TND HT (Global)": 1003030,
+      "Nombre Recharge (Global)": 612249,
+      "Total Recharge TND TTC (Digital)": 53265.4201680672,
+      "Nombre Recharge (Digital)": 6420,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 5.310451349218588,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0485929744270714
+    },
+    {
+      "Date": "2024-01-01",
+      "Total Recharge TND HT (Global)": 869889,
+      "Nombre Recharge (Global)": 498965,
+      "Total Recharge TND TTC (Digital)": 57687.9831932773,
+      "Nombre Recharge (Digital)": 5270,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.631648772806336,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0561863056527012
+    },
+    {
+      "Date": "2024-01-02",
+      "Total Recharge TND HT (Global)": 1071466,
+      "Nombre Recharge (Global)": 588364,
+      "Total Recharge TND TTC (Digital)": 72864.6218487395,
+      "Nombre Recharge (Digital)": 6557,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.800460476463041,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.1144461591803714
+    },
+    {
+      "Date": "2024-01-03",
+      "Total Recharge TND HT (Global)": 979114,
+      "Nombre Recharge (Global)": 551993,
+      "Total Recharge TND TTC (Digital)": 61690.7142857142,
+      "Nombre Recharge (Digital)": 5740,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.300667162936511,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.039868259198939
+    },
+    {
+      "Date": "2024-01-04",
+      "Total Recharge TND HT (Global)": 962253,
+      "Nombre Recharge (Global)": 552409,
+      "Total Recharge TND TTC (Digital)": 59791.9747899159,
+      "Nombre Recharge (Digital)": 5721,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.213747817872836,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0356456900593582
+    },
+    {
+      "Date": "2024-01-05",
+      "Total Recharge TND HT (Global)": 961470,
+      "Nombre Recharge (Global)": 551020,
+      "Total Recharge TND TTC (Digital)": 59228.1092436974,
+      "Nombre Recharge (Digital)": 5616,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.160161964876429,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0192007549635222
+    },
+    {
+      "Date": "2024-01-06",
+      "Total Recharge TND HT (Global)": 949158,
+      "Nombre Recharge (Global)": 535627,
+      "Total Recharge TND TTC (Digital)": 55816.5546218487,
+      "Nombre Recharge (Digital)": 5136,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 5.8806389054139245,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9588762329008806
+    },
+    {
+      "Date": "2024-01-07",
+      "Total Recharge TND HT (Global)": 795761,
+      "Nombre Recharge (Global)": 467698,
+      "Total Recharge TND TTC (Digital)": 49415.3361344537,
+      "Nombre Recharge (Digital)": 4556,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.209821307459613,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9741328806195451
+    },
+    {
+      "Date": "2024-01-08",
+      "Total Recharge TND HT (Global)": 1018394,
+      "Nombre Recharge (Global)": 575357,
+      "Total Recharge TND TTC (Digital)": 64416.806722689,
+      "Nombre Recharge (Digital)": 6161,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.3253325061507635,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0708134254037058
+    },
+    {
+      "Date": "2024-01-09",
+      "Total Recharge TND HT (Global)": 964349,
+      "Nombre Recharge (Global)": 557520,
+      "Total Recharge TND TTC (Digital)": 59601.9747899159,
+      "Nombre Recharge (Digital)": 5866,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.180539907224033,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0521595637824652
+    },
+    {
+      "Date": "2024-01-10",
+      "Total Recharge TND HT (Global)": 953594,
+      "Nombre Recharge (Global)": 547904,
+      "Total Recharge TND TTC (Digital)": 58958.1512605042,
+      "Nombre Recharge (Digital)": 5773,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.182730937957265,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0536517346104426
+    },
+    {
+      "Date": "2024-01-11",
+      "Total Recharge TND HT (Global)": 954188,
+      "Nombre Recharge (Global)": 553262,
+      "Total Recharge TND TTC (Digital)": 58741.1764705882,
+      "Nombre Recharge (Digital)": 5663,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.156142863941718,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0235656885887698
+    },
+    {
+      "Date": "2024-01-12",
+      "Total Recharge TND HT (Global)": 946620,
+      "Nombre Recharge (Global)": 543014,
+      "Total Recharge TND TTC (Digital)": 57695.3411764705,
+      "Nombre Recharge (Digital)": 5679,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.09487874505826,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0458293892975135
+    },
+    {
+      "Date": "2024-01-13",
+      "Total Recharge TND HT (Global)": 960703,
+      "Nombre Recharge (Global)": 556051,
+      "Total Recharge TND TTC (Digital)": 57073.8655462184,
+      "Nombre Recharge (Digital)": 5347,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 5.940843897252159,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9616024429413849
+    },
+    {
+      "Date": "2024-01-14",
+      "Total Recharge TND HT (Global)": 807009,
+      "Nombre Recharge (Global)": 479722,
+      "Total Recharge TND TTC (Digital)": 49376.8899159663,
+      "Nombre Recharge (Digital)": 4482,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.118505483329963,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9342911102680302
+    },
+    {
+      "Date": "2024-01-15",
+      "Total Recharge TND HT (Global)": 1045604,
+      "Nombre Recharge (Global)": 593164,
+      "Total Recharge TND TTC (Digital)": 64163.6394957983,
+      "Nombre Recharge (Digital)": 6165,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.13651434919896,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.039341564896049
+    },
+    {
+      "Date": "2024-01-16",
+      "Total Recharge TND HT (Global)": 1011318,
+      "Nombre Recharge (Global)": 570558,
+      "Total Recharge TND TTC (Digital)": 65681.9,
+      "Nombre Recharge (Digital)": 6141,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.494683175816113,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0763147655453082
+    },
+    {
+      "Date": "2024-01-17",
+      "Total Recharge TND HT (Global)": 979148,
+      "Nombre Recharge (Global)": 567598,
+      "Total Recharge TND TTC (Digital)": 59463.3210084033,
+      "Nombre Recharge (Digital)": 5755,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.072965579095632,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0139218249535764
+    },
+    {
+      "Date": "2024-01-18",
+      "Total Recharge TND HT (Global)": 968403,
+      "Nombre Recharge (Global)": 561681,
+      "Total Recharge TND TTC (Digital)": 59652.76302521,
+      "Nombre Recharge (Digital)": 5637,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.159911010726939,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0035945670229187
+    },
+    {
+      "Date": "2024-01-19",
+      "Total Recharge TND HT (Global)": 983305,
+      "Nombre Recharge (Global)": 564737,
+      "Total Recharge TND TTC (Digital)": 61995.1336134453,
+      "Nombre Recharge (Digital)": 6026,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.304771521902695,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0670453680208665
+    },
+    {
+      "Date": "2024-01-20",
+      "Total Recharge TND HT (Global)": 1012896,
+      "Nombre Recharge (Global)": 571957,
+      "Total Recharge TND TTC (Digital)": 64193.0327731092,
+      "Nombre Recharge (Digital)": 5797,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.33757392398718,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0135377309832732
+    },
+    {
+      "Date": "2024-01-21",
+      "Total Recharge TND HT (Global)": 804271,
+      "Nombre Recharge (Global)": 476982,
+      "Total Recharge TND TTC (Digital)": 52117.9521008403,
+      "Nombre Recharge (Digital)": 4746,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.480148121819673,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.995006100859152
+    },
+    {
+      "Date": "2024-01-22",
+      "Total Recharge TND HT (Global)": 1044732,
+      "Nombre Recharge (Global)": 590787,
+      "Total Recharge TND TTC (Digital)": 64975.250420168,
+      "Nombre Recharge (Digital)": 6093,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.2193223161698885,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0313361668418568
+    },
+    {
+      "Date": "2024-01-23",
+      "Total Recharge TND HT (Global)": 972984,
+      "Nombre Recharge (Global)": 560627,
+      "Total Recharge TND TTC (Digital)": 61355.6512605041,
+      "Nombre Recharge (Digital)": 5814,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.305926023501321,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0370531565550714
+    },
+    {
+      "Date": "2024-01-24",
+      "Total Recharge TND HT (Global)": 971751,
+      "Nombre Recharge (Global)": 559846,
+      "Total Recharge TND TTC (Digital)": 63710.8789915966,
+      "Nombre Recharge (Digital)": 5951,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.55629672535419,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0629708884228877
+    },
+    {
+      "Date": "2024-01-25",
+      "Total Recharge TND HT (Global)": 975887,
+      "Nombre Recharge (Global)": 565017,
+      "Total Recharge TND TTC (Digital)": 60879.6705882352,
+      "Nombre Recharge (Digital)": 5738,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.238393439838343,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.015544665027778
+    },
+    {
+      "Date": "2024-01-26",
+      "Total Recharge TND HT (Global)": 994197,
+      "Nombre Recharge (Global)": 574028,
+      "Total Recharge TND TTC (Digital)": 67070.7773109243,
+      "Nombre Recharge (Digital)": 6331,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.746226081040708,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.1029078720898633
+    },
+    {
+      "Date": "2024-01-27",
+      "Total Recharge TND HT (Global)": 990225,
+      "Nombre Recharge (Global)": 573439,
+      "Total Recharge TND TTC (Digital)": 64087.4840336134,
+      "Nombre Recharge (Digital)": 5828,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.472012323826746,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.016324316971814
+    },
+    {
+      "Date": "2024-01-28",
+      "Total Recharge TND HT (Global)": 828555,
+      "Nombre Recharge (Global)": 495792,
+      "Total Recharge TND TTC (Digital)": 55611.6260504201,
+      "Nombre Recharge (Digital)": 4931,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.711881052002594,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.994570303675735
+    },
+    {
+      "Date": "2024-01-29",
+      "Total Recharge TND HT (Global)": 1076145,
+      "Nombre Recharge (Global)": 610878,
+      "Total Recharge TND TTC (Digital)": 76068.3529411764,
+      "Nombre Recharge (Digital)": 7103,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 7.068596977282467,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.1627526281843512
+    },
+    {
+      "Date": "2024-01-30",
+      "Total Recharge TND HT (Global)": 1004780,
+      "Nombre Recharge (Global)": 583086,
+      "Total Recharge TND TTC (Digital)": 68795.9453781512,
+      "Nombre Recharge (Digital)": 6517,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.846866515869266,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.117673893730942
+    },
+    {
+      "Date": "2024-01-31",
+      "Total Recharge TND HT (Global)": 979967,
+      "Nombre Recharge (Global)": 571230,
+      "Total Recharge TND TTC (Digital)": 62174.9747899159,
+      "Nombre Recharge (Digital)": 6309,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.344598827298868,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.104458799432803
+    },
+    {
+      "Date": "2024-02-01",
+      "Total Recharge TND HT (Global)": 950127,
+      "Nombre Recharge (Global)": 537356,
+      "Total Recharge TND TTC (Digital)": 58689.3294117647,
+      "Nombre Recharge (Digital)": 5577,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.176998381454764,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0378594451350687
+    },
+    {
+      "Date": "2024-02-02",
+      "Total Recharge TND HT (Global)": 953937,
+      "Nombre Recharge (Global)": 536930,
+      "Total Recharge TND TTC (Digital)": 62367.3739495798,
+      "Nombre Recharge (Digital)": 5997,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.537892329323613,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.1169053694150075
+    },
+    {
+      "Date": "2024-02-03",
+      "Total Recharge TND HT (Global)": 943966,
+      "Nombre Recharge (Global)": 539498,
+      "Total Recharge TND TTC (Digital)": 62192.8789915966,
+      "Nombre Recharge (Digital)": 5724,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.588466003181957,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0609863243237232
+    },
+    {
+      "Date": "2024-02-04",
+      "Total Recharge TND HT (Global)": 798755,
+      "Nombre Recharge (Global)": 479091,
+      "Total Recharge TND TTC (Digital)": 52138.856302521,
+      "Nombre Recharge (Digital)": 4745,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.527515483786768,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9904172693705372
+    },
+    {
+      "Date": "2024-02-05",
+      "Total Recharge TND HT (Global)": 1029457,
+      "Nombre Recharge (Global)": 588712,
+      "Total Recharge TND TTC (Digital)": 65300.7571428571,
+      "Nombre Recharge (Digital)": 6322,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.343223383090027,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.073869735965973
+    },
+    {
+      "Date": "2024-02-06",
+      "Total Recharge TND HT (Global)": 992326,
+      "Nombre Recharge (Global)": 576537,
+      "Total Recharge TND TTC (Digital)": 61491.5655462184,
+      "Nombre Recharge (Digital)": 6016,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.196710107990559,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0434716245444784
+    },
+    {
+      "Date": "2024-02-07",
+      "Total Recharge TND HT (Global)": 964645,
+      "Nombre Recharge (Global)": 561847,
+      "Total Recharge TND TTC (Digital)": 59605.1647058823,
+      "Nombre Recharge (Digital)": 5556,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.178974099889835,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9888813146639565
+    },
+    {
+      "Date": "2024-02-08",
+      "Total Recharge TND HT (Global)": 963723,
+      "Nombre Recharge (Global)": 563565,
+      "Total Recharge TND TTC (Digital)": 57059.9907563025,
+      "Nombre Recharge (Digital)": 5720,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 5.920787483156726,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.0149672176235218
+    },
+    {
+      "Date": "2024-02-09",
+      "Total Recharge TND HT (Global)": 953692,
+      "Nombre Recharge (Global)": 555627,
+      "Total Recharge TND TTC (Digital)": 54991.1747899159,
+      "Nombre Recharge (Digital)": 5001,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 5.766135690549559,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 0.9000642517372266
+    },
+    {
+      "Date": "2024-02-10",
+      "Total Recharge TND HT (Global)": 953081,
+      "Nombre Recharge (Global)": 550574,
+      "Total Recharge TND TTC (Digital)": 60268.5495798319,
+      "Nombre Recharge (Digital)": 5634,
+      "Pourcentage du recharge (Digital) par rapport au (Global)": 6.323549580763011,
+      "Pourcentage du Nombre de recharge (Digital) par rapport au (Global)": 1.023295687773124
+    }
+  ]

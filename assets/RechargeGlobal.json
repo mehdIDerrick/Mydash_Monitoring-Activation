@@ -1,0 +1,32 @@
+[
+    {
+     "date": "2024-03-12",
+     "total_recharge_jour_j": 1085,
+     "total_recharge_jour_j_7": 1223,
+     "total_recharge_jour_m_1": 1264,
+     "total_recharge_jour_y_1": 1192,
+     "total_recharge_cummul_m": 12541,
+     "total_recharge_cummul_m_1": 12296,
+     "total_recharge_cummul_y_1": 12152
+    },
+    {
+     "date": "2024-02-28",
+     "total_recharge_jour_j": 1188,
+     "total_recharge_jour_j_7": 1181,
+     "total_recharge_jour_m_1": 1196,
+     "total_recharge_jour_y_1": 1173,
+     "total_recharge_cummul_m": 30950,
+     "total_recharge_cummul_m_1": 30877,
+     "total_recharge_cummul_y_1": 29816
+    },
+    {
+     "date": "2024-01-31",
+     "total_recharge_jour_j": 1196,
+     "total_recharge_jour_j_7": 1158,
+     "total_recharge_jour_m_1": 1275,
+     "total_recharge_jour_y_1": 1131,
+     "total_recharge_cummul_m": 34340,
+     "total_recharge_cummul_m_1": 34674,
+     "total_recharge_cummul_y_1": 32818
+    }
+   ]
