@@ -16,22 +16,27 @@ class Page0 extends StatefulWidget {
 }
 
 class Page0State extends State<Page0> {
-  int selectedOptionIndex = -1; // Initialize with a default value
-  bool loading = true;
-  List<Map<String, dynamic>> aggregatedEntities = [];
-  List<String> entityTypeNames = [];
-  List<String> selectedEntityTypeNames = [];
-  List<Map<String, dynamic>> filteredEntities = [];
-  TextEditingController _searchController = TextEditingController();
+  int selectedOptionIndex = -1; // Option sélectionnée par défaut
+  bool loading = true; // Indique si les données sont en cours de chargement
+  List<Map<String, dynamic>> aggregatedEntities =
+      []; // Liste des entités agrégées
+  List<String> entityTypeNames = []; // Liste des types d'entités
+  List<String> selectedEntityTypeNames =
+      []; // Liste des types d'entités sélectionnés
+  List<Map<String, dynamic>> filteredEntities =
+      []; // Liste des entités filtrées
+  TextEditingController _searchController =
+      TextEditingController(); // Contrôleur pour la barre de recherche
 
   @override
   void initState() {
     super.initState();
-    _loadDataFromLocalStorage();
-    _filterEntities;
+    _loadDataFromLocalStorage(); // Chargement des données depuis le stockage local
+    _filterEntities; // Filtrer
     // Set the preferred orientations to portrait only
     // Set the preferred orientations to portrait only
     // Apply search initially.
+    // Configurer l'orientation en mode portrait uniquement
     SystemChrome.setPreferredOrientations(
         [DeviceOrientation.portraitUp, DeviceOrientation.portraitDown]);
   }
@@ -39,6 +44,8 @@ class Page0State extends State<Page0> {
   @override
   void dispose() {
     // Reset the preferred orientations to allow all orientations
+    // Réinitialiser les orientations pour permettre toutes les orientations
+
     SystemChrome.setPreferredOrientations([
       DeviceOrientation.portraitUp,
       DeviceOrientation.portraitDown,
@@ -48,6 +55,7 @@ class Page0State extends State<Page0> {
     super.dispose();
     // Set the preferred orientations to portrait only
   }
+  // Méthode pour charger les données du stockage local
 
   Future<void> _loadDataFromLocalStorage() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
@@ -60,6 +68,7 @@ class Page0State extends State<Page0> {
       List<dynamic> decodedData = jsonDecode(jsonData);
       Map<String, Map<String, dynamic>> entityMap = {};
       Set<String> entityTypesSet = {};
+      // Agréger les entités
 
       for (var entity in decodedData) {
         String entityName = entity['entity_name'] ?? 'Unknown';
@@ -78,6 +87,7 @@ class Page0State extends State<Page0> {
 
         entityTypesSet.add(entityTypeName);
       }
+      // Trier la liste par nombre de transactions décroissant
 
       List<Map<String, dynamic>> aggregatedList = entityMap.values.toList();
       aggregatedList
@@ -85,15 +95,16 @@ class Page0State extends State<Page0> {
 
       setState(() {
         aggregatedEntities = aggregatedList;
-        loading = false;
+        loading = false; // Indique que le chargement est terminé
         entityTypeNames = entityTypesSet.toList();
         selectedEntityTypeNames =
             prefs.getStringList('selectedEntityTypeNames') ?? [];
       });
     } else {
-      await fetchEntities();
+      await fetchEntities(); // Si pas de données locales, les récupérer depuis l'API
     }
   }
+  // Méthode pour récupérer les données depuis l'API
 
   Future<void> fetchEntities() async {
     try {
@@ -124,6 +135,7 @@ class Page0State extends State<Page0> {
 
         entityTypesSet.add(entityTypeName);
       }
+      // Trier les entités par nombre de transactions décroissant
 
       List<Map<String, dynamic>> aggregatedList = entityMap.values.toList();
       aggregatedList
@@ -143,6 +155,7 @@ class Page0State extends State<Page0> {
       });
     }
   }
+  // Méthode pour filtrer les entités en fonction de la recherche et des filtres sélectionnés
 
   void _filterEntities(String query) {
     final filteredList = aggregatedEntities.where((entity) {
@@ -191,7 +204,7 @@ class Page0State extends State<Page0> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              // Search bar
+              // Barre de recherche
               Padding(
                 padding: const EdgeInsets.symmetric(vertical: 12.0),
                 child: TextField(
